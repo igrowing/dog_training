@@ -19,9 +19,9 @@ Correct. This word is "Yes". Of course, if you say "yes" to someone, "I will do 
 
 Why "yes"?
 
-[Pyotr Anokhin proposed a model](https://ru.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BE%D1%80%D0%B8%D1%8F_%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D1%85_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC), which describes the interaction of all systems in a living organism. As well as the interaction of different parts of each individual system. The model turned out to be universal. It applies to people and animals, plants and even psychology.
+[Pyotr Anokhin proposed a model](https://en.wikipedia.org/wiki/Theory_of_functional_systems), which describes the interaction of all systems in a living organism. As well as the interaction of different parts of each individual system. The model turned out to be universal. It applies to people and animals, plants and even psychology.
 
-Greatly simplifying the description of the model, each system regulates itself using the negative feedback method. This method was already known to 18th century mechanics, who used [centrifugal governor](https://it.wikipedia.org/wiki/Regolatore_centrifugo) (https://en.wikipedia.org/wiki/Centrifugal_governor) in steam engines to achieve a constant shaft speed.
+Greatly simplifying the description of the model, each system regulates itself using the negative feedback method. This method was already known to 18th century mechanics, who used [centrifugal governor](https://en.wikipedia.org/wiki/Centrifugal_governor) in steam engines to achieve a constant shaft speed.
 
 Thus, if there is too much of something in the system, then a signal about the need to reduce this "something" comes via negative feedback. And vice versa, the greater the lack of something, the stronger the signal about the need to replenish. For example, the more thirsty we are, the more persistently we look for water. And having found it, the more we drink, the less we want to drink.
 
