@@ -29,6 +29,10 @@ The connection is called "negative" because the signal to action is opposite in 
 
 The "Functional System" model describes the maintenance of life, homeostasis, the status quo. It is built into our biology and is unchangeable. It keeps us alive. But, alas, it also does not allow us to develop, grow professionally, emotionally, socially.
 
+[Opening the electronic model](EllKiEUK6k4WTmEkADEZkAYkNwgAWWsADwAdAGcGAGAGwAXaxq6ReWQNdkNrY2IABEAYRO2ADM-sc6FcWEA) of the functional system, you can play with it and see how it responds to the intervention.
+
+![Functional system](pictures/functional%20system.jpg "Functional system")
+
 The driving force behind such development is our restless brain, or, if you like, soul. Each of us has something that we like to do. One or more hobbies, which, once you get busy, you don't notice how time flies. And being distracted, you want to return to it again. Mihaly Csikszentmihalyi calls this state ("Flow")[https://en.wikipedia.org/wiki/Flow_(psychology)]
 
 It turns out that the biology of humans and dogs is quite similar. They also like to have a good time, feel good, experience pleasure and happiness. Unlike a functional system, the flow is maintained by positive feedback. This is when some action gives some pleasure. And then we continue to do the same thing, improving and perfecting the action to get even more pleasure.
@@ -47,7 +51,34 @@ Try not to use "No" with those with whom you hope to build a long-term relations
 
 Note how the advice is given on not using "No". This is not just "No". This is a positive alternative. Positive goal.
 
+## Are there exceptions?
+
+Of course, "yes"! The magic effect of the word "yes," if you notice, applies to long-term relationships. If you are sure that you see your interlocutor is the first and last time, you can use "No", "Maybe" or whatever you want. "Yes" is used to shape desirable behavior. One-time or short-term contacts will not change/shape the relationship with you. So there is no point in wasting time, effort and thought on the correct use of positive feedback.
+It is important to understand that if there is a chance of long-term relationships, personal or professional, you have no choice. To get desirable behavior from friends, relatives and colleagues, you will have to invest your time and effort in positive feedback.
+
+Good news: using positive feedback gives you a reputation as a good friend, a friendly colleague.
+
+The bad news (how to go without them?): the positive feedback does not work immediately, but requires diligence and perseverance.
+
+## Practice
+If you have never trained your pet, it is worth starting with this simple exercise. 
+1. Prepare a handful of small delicacies so that the dog cannot simply take it. For example, hold in the hand or on a table above the dog’s eyes/nose.
+2. Wait until the dog starts to spin around you or sit next to you. It usually happens almost as soon as you start doing something. Dogs are curious.
+3. As soon as you see that the dog is distracted from you, look away, for example, immediately call its name 1 time.
+4. Wait until the dog looks at you. Maximum 10 seconds.
+5. Immediately as the dog looks at you, say "Yes!" loud and cheery and offer it a piece of a treat.
+6. Repeat the points 3-5 for 10 times or more.
+7. Repeat whole the exercise in another room, on the balcony, in the garden, in the forest/park, while walking the dog.
+
+
 # Strike while the iron is hot
+
+```commandline
+                                        +---------------+
+             does not exist             |     LIFE      |    does not exist
+----------------------------------------+---------------+--------------------------> t
+                                   -7 seconds          now
+```
 
 # About being true to yourself
 

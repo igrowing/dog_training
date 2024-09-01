@@ -29,6 +29,11 @@ La connessione è chiamata "negativa" perché il segnale all'azione è di segno 
 
 Il modello del "Sistema Funzionale" descrive il mantenimento della vita, l'omeostasi, lo status quo. È incorporato nella nostra biologia ed è immutabile. Ci mantiene in vita. Ma, ahimè, non ci consente neanche di svilupparci, crescere professionalmente, emotivamente, socialmente.
 
+[Aprendo il modello elettronico](EllKiEUK6k4WTmEkADEZkAYkNwgAWWsADwAdAGcGAGAGwAXaxq6ReWQNdkNrY2IABEAYRO2ADM-sc6FcWEA) del sistema funzionale, si può giocare con esso e vedere come risponde all'intervento.
+
+![Sistema funzionale](pictures/functional%20system.jpg "Sistema funzionale")
+
+
 La forza trainante dietro tale sviluppo è il nostro cervello irrequieto, o, se preferisci, l'anima. Ognuno di noi ha qualcosa che gli piace fare. Uno o più hobby, che, una volta che ci si impegna, non ci si accorge di come vola il tempo. E distraendosi, si desidera tornarci di nuovo. Mihaly Csikszentmihalyi chiama questo stato ("Flusso")[https://it.wikipedia.org/wiki/Flusso_(psicologia)]
 
 Si scopre che la biologia degli esseri umani e dei cani è piuttosto simile. A loro piace anche divertirsi, sentirsi bene, sentire di piacere e felicità. A differenza da un sistema funzionale, il flusso è mantenuto da un feedback positivo. Questo è quando un'azione dà un po' di piacere. E poi continuiamo a fare la stessa cosa, migliorando e perfezionando l'azione per ottenere ancora più piacere.
@@ -47,7 +52,34 @@ Cerca di non usare "No" con loro con cui speri di costruire i rapporti a lungo t
 
 Nota come viene dato il consiglio di non usare "No". Questo non è solo "No". Questa è un'alternativa positiva. Obiettivo positivo.
 
+## Ci sono le eccezioni?
+
+Ovviamente "sì"! L'effetto magico di dire "sì", se l'hai notato, si applica ai rapporti a lungo termine. Se sei sicuro che stai vedendo il tuo interlocutore per la prima e l'ultima volta, puoi usare “No”, “Forse” e quello che vuoi. "Sì" viene utilizzato per modellare il comportamento desiderato. I contatti occasionali o a breve termine non saranno in grado d'influenzare il cambiamento/formazione dell'atteggiamento nei tuoi confronti. Ciò significa che non ha senso sprecare tempo, fatica e riflessione sull’uso corretto del feedback positivo.
+È importante capire che se esiste la possibilità di una relazione a lungo termine, personale o professionale, non hai scelta. Per ottenere un comportamento desiderabile da amici, familiari e colleghi, dovrai investire tempo e fatica in feedback positivi.
+
+La Buona notizia: usare il feedback positivo ti dà la reputazione di persona gentile, buon amico, collega accomodante.
+
+La Brutta notizia (come andare senza di loro): l'utilizzo di feedback positivo non dà risultati immediati, ma richiede perseveranza e pazienza.
+
+## Pratica
+Se non hai mai addestrato il tuo animale domestico prima, dovresti iniziare con questo semplice esercizio.
+1. Prepara una manciata di piccoli dolcetti/premi in modo che il cane non possa semplicemente prenderli. Ad esempio, tienili sul palmo della mano o su un tavolo sopra il livello degli occhi/naso del cane.
+2. Aspetta finché il cane non inizia a girarti intorno o a sedersi accanto a te. Questo di solito accade non appena inizi a fare qualcosa. I cani sono curiosi.
+3. Non appena vedi che il cane è distratto da te, ad esempio guardando di lato, pronuncia immediatamente il suo nome una volta.
+4. Aspetta finché il cane non ti guarda. Massimo 10 secondi.
+5. Non appena il cane ti guarda, dì "Sì!" ad alta voce e con gioia, e offrirlo un dolcetto.
+6. Ripeti i punti 3-5 volte 10 o più.
+7. Ripeti l'intero esercizio in un'altra stanza, sul balcone, in giardino, nel bosco/parco, durante una passeggiata.
+
+
 # Batti il ferro finché è caldo
+
+```commandline
+                                        +---------------+
+             non esiste                 |     VITA      |       non esiste
+----------------------------------------+---------------+--------------------------> t
+                                   -7 secondi        adesso
+```
 
 # Sulla fedeltà a te stesso
 
