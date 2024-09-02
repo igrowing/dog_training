@@ -17,6 +17,13 @@ Facciamo delle scommesse! Qual è la parola più importante non solo nella comun
 
 Corretto. Questa parola è "Sì". Certo, se dici "sì" a qualcuno, "Farò questo lavoro", "Andrò a prendere il bambino all'asilo", "Mi occuperò della nostra vacanza", ma se non lo fai, la tua reputazione verrà distrutta e sarà difficile, quasi impossibile ripristinarla. Ma finché il tuo "sì" va di pari passo con le tue azioni, non c'è nulla di cui preoccuparsi. "Sì" funziona per te!
 
+Il collare/pettorina e il guinzaglio limitano la libertà del cane. Non tutti i cani accettano volentieri di essere trattenuti. Se ogni volta che metti un collare/pettorina al tuo cane o allacci un guinzaglio dici “Sì!” e rinforza la parola con un bocconcino, poi il cane cambia atteggiamento nei confronti della restrizione della libertà. Inizierà persino ad avvicinarsi e chiederà di essere allacciata per un spuntino. Ebbene, anche perché essere legati al padrone fuori, cioè avendo una connessione fisica con lui attraverso il guinzaglio, il cane si sente al sicuro.
+
+<p align="center">
+  <img src="pictures/dad_teaches_kids.jpg" alt="Dog training joke"/></br>
+Ascoltate, ragazzi: peggio farete gli esercizi, più spuntini otterrete. È così semplice!
+</p>
+
 Perché "sì"?
 
 [Pyotr Anokhin ha proposto un modello](https://en.wikipedia.org/wiki/Theory_of_functional_systems), che descrive l'interazione di tutti i sistemi in un organismo vivente. Così come l'interazione di diverse parti di ogni singolo sistema. Il modello si è rivelato universale. Si applica a persone e animali, piante e persino alla psicologia.
@@ -54,12 +61,11 @@ Nota come viene dato il consiglio di non usare "No". Questo non è solo "No". Qu
 
 ## Ci sono le eccezioni?
 
-Ovviamente "sì"! L'effetto magico di dire "sì", se l'hai notato, si applica ai rapporti a lungo termine. Se sei sicuro che stai vedendo il tuo interlocutore per la prima e l'ultima volta, puoi usare “No”, “Forse” e quello che vuoi. "Sì" viene utilizzato per modellare il comportamento desiderato. I contatti occasionali o a breve termine non saranno in grado d'influenzare il cambiamento/formazione dell'atteggiamento nei tuoi confronti. Ciò significa che non ha senso sprecare tempo, fatica e riflessione sull’uso corretto del feedback positivo.
+Ovviamente "sì"! L'effetto magico di dire "sì", se l'hai notato, si applica ai rapporti a **lungo termine**. Se sei sicuro che stai vedendo il tuo interlocutore per la prima e l'ultima volta, puoi usare “No”, “Forse” e quello che vuoi. "Sì" viene utilizzato per modellare il comportamento desiderato. I contatti occasionali o a breve termine non saranno in grado d'influenzare il cambiamento/formazione dell'atteggiamento nei tuoi confronti. Ciò significa che non ha senso sprecare tempo, fatica e riflessione sull’uso corretto del feedback positivo.
 È importante capire che se esiste la possibilità di una relazione a lungo termine, personale o professionale, non hai scelta. Per ottenere un comportamento desiderabile da amici, familiari e colleghi, dovrai investire tempo e fatica in feedback positivi.
 
-La Buona notizia: usare il feedback positivo ti dà la reputazione di persona gentile, buon amico, collega accomodante.
-
-La Brutta notizia (come andare senza di loro): l'utilizzo di feedback positivo non dà risultati immediati, ma richiede perseveranza e pazienza.
+* La Buona notizia: usare il feedback positivo ti dà la reputazione di persona gentile, buon amico, collega accomodante.
+* La Brutta notizia (come andare senza di loro): l'utilizzo di feedback positivo non dà risultati immediati, ma richiede perseveranza e pazienza.
 
 ## Pratica
 Se non hai mai addestrato il tuo animale domestico prima, dovresti iniziare con questo semplice esercizio.
@@ -71,8 +77,30 @@ Se non hai mai addestrato il tuo animale domestico prima, dovresti iniziare con 
 6. Ripeti i punti 3-5 volte 10 o più.
 7. Ripeti l'intero esercizio in un'altra stanza, sul balcone, in giardino, nel bosco/parco, durante una passeggiata.
 
+L'ultimo punto è particolarmente importante. Molte persone si stupiscono che il loro cane segua bene i comandi dell’addestratore, ma a casa difficilmente capisce cosa gli viene richiesto. Coloro che addestrano i cani da soli sono frustrati dal fatto che molti comandi che il cane esegue bene a casa rimangono senza risposta quando il padrone vuole mostrare il cane agli amici. Non c'è niente di strano in questo. I cani si integrano meglio nella natura rispetto alle persone, nel bene e nel male. Vedono e sentono non solo il proprietario, ma tutto ciò che li circonda. Il padrone e i sui comandi sono solo una piccola parte del mondo circondando. Pertanto lo stesso comando e lo stesso gesto in una stanza vengono percepiti diversamente dal cane in un'altra stanza. Addestrando un cane in ambienti diversi, puoi insegnargli a “separare il grano dalla pula”: vedere e ascoltare il padrone e ridurre l'attenzione a un ambiente eterogeneo.
+
+Cosa ci dà questa conoscenza? I 2 conclusioni sono:
+1. Se il nostro obiettivo è insegnare rapidamente un trucco al cane, allora è meglio farlo nello stesso ambiente. Ad esempio, nella stessa stanza o nello stesso angolo del giardino.
+2. Dopo aver addestrato un trucco al cane, nolens volens dovrà insegnargli lo stesso in molti altri posti. Anche se le cose andranno più veloci in questo modo.
+
+## Riepilogo
+
+La parola "Sì" è la prima e più importante parola da insegnare a un cane. Durante l'addestramento, "Sì" dovrebbe essere rinforzato con un premio. In questo modo, il cane assocerà "Sì" a qualcosa di buono e positivo. Usa "Sì", il feedback positivo, per formare le abilità e il comportamento desiderati nel cane.
+
+"Sì", il feedback positivo è uno strumento per formare il comportamento desiderato. È importante usarlo come qualsiasi altro strumento, al momento giusto e nel modo giusto. Non dire "sì" e non dare al cane un bocconcino senza una ragione. Non usare lo strumento quando il cane fa qualcosa di sbagliato. Non sprecare "sì" molto tempo dopo il comportamento desiderato. Usa "sì" immediatamente, istantaneamente, non appena il cane ha eseguito l'azione desiderata o almeno una parte di essa. Ripeti i comandi e "sì" molte volte in diverse situazioni.
+
+Bonus: lo stesso effetto di "Sì", il feedback positivo, funziona sulle persone. Basta scegliere un'altra parola (ad esempio, "Figo", "Bravo", "Bellissimo", ecc.) e usarla solo per formare il comportamento desiderato. Il secondo bonus è che con le persone puoi risparmiare sui spuntini: le persone capiscono le parole.
 
 # Batti il ferro finché è caldo
+
+Ogni persona trascorre decine di anni della sua vita per comprendere la necessità, il valore e i benefici della meditazione. In verità molti muoiono così, senza aver mai meditato nemmeno una volta. Triste ma vero. [Meditazione](https://it.wikipedia.org/wiki/Meditazione), in poche parole, è un allenamento di concentrazione. La meditazione consente a una persona di concentrarsi (focalizzare l'attenzione) su qualcosa per un lungo periodo del tempo. Nel nostro stato normale, il nostro cervello “salta” costantemente da un pensiero all’altro. Come dicono i filosofi, “il pensiero raggiunge e divora il pensiero”. L'esercizio della meditazione insegna a una persona a concentrarsi sul pensiero desiderato senza ignorare l'ambiente. La meditazione pratica è un esercizio in cui una persona scarta consapevolmente tutte le questioni e le preoccupazioni del futuro, tutte le difficoltà, le lamentele e il dolore del passato e vive nel momento presente. Sembra semplice, provalo qualche volta. Nel momento presente ci vengono rivelati sentimenti insoliti che viviamo con tutta la nostra vita e non li notiamo.
+
+| Daltronde la vita, è ciò che accade mentre ci stiamo occupando d'altro. (filosofo sconosciuto) |
+|-----------------------------------------------------------------------------------|
+
+I cani hanno una capacità di attenzione migliore rispetto agli umani. La nostra capacità umana di pensare in modo astratto è sia un dono che un peso. La capacità di pensare crea e radica nella nostra mente immagini del mondo che spesso non hanno nulla in comune con la realtà. Per approfondire questo argomento, leggeresti Daniel Kahneman, Martin Seligman, Dan Rafaeli, Robert Dilts e altri. I cani non hanno la capacità di pensare in modo astratto. Quindi non hanno bisogno d'imparare a meditare. Dalla nascita sono in grado di percepire l'intero ambiente contemporaneamente, come un ambiente integrato. Allo stesso tempo, a giudicare dal loro comportamento, i cani distinguono abbastanza chiaramente quelli più importanti dal frastuono generale di vari stimoli. Se il cane non trova uno stimolo “importante” nel suo ambiente, allora si calma e si riposa. I cani trascorrono la maggior parte del tempo mezzo addormentati. I cani vivono naturalmente il momento. E il momento attuale per loro è ciò che sta accadendo proprio adesso.
+
+Diversi studi dimostrano che i cani “ricordano” al massimo 7-10 secondi fa. Tutta la loro vita sono i nostri ultimi 7-10 secondi, che corrono avanti insieme al tempo. Come un treno sui binari, o come una porta scorrevole nel tuo armadio.
 
 ```commandline
                                         +---------------+
@@ -83,9 +111,15 @@ Se non hai mai addestrato il tuo animale domestico prima, dovresti iniziare con 
 
 # Sulla fedeltà a te stesso
 
+## Riepilogo
+
 # Comandi essenziali
 
+## Riepilogo
+
 # Comandi divertenti
+
+## Riepilogo
 
 # In breve
 
@@ -122,3 +156,11 @@ Se usi sinonimi (Sedersi, Siediti, Resta seduto, Tieni palle per terra, Mantieni
 
 Fai attenzione a come dai i comandi. Più il comando è variabile in tono, volume, velocità di pronuncia, coordinazione con il gesto, più tempo e iterazioni ti serviranno per addestrare il cane.
 Se il cane "non capisce" cosa deve fare, forse i "mattoni" sono troppo grandi. Pensa a quali azioni più piccole vuoi insegnare al cane. E insegna ogni azione alla volta in ordine sequenziale. Man mano che esegue correttamente i comandi iniziali, aumenta la complessità. Ad esempio, il comando "Servire" consiste in "Seduto!" e poi "Servire".
+
+# Addendum
+
+## Cibo e bocconcini
+
+## Cura generale e igiene
+
+## Servizi veterinari

@@ -17,6 +17,12 @@ Let's place bets! What is the most important word not only in communication with
 
 Correct. This word is "Yes". Of course, if you say "yes" to someone, "I will do this job", "I will pick up the child from kindergarten", "I will take care of our vacation", but if you do not do this, your reputation will be destroyed, and it will be difficult, almost impossible to restore it. But as long as your "yes" goes hand in hand with your actions - there is nothing to worry about. "Yes" works for you!
 
+A collar/harness and a leash restrict a dog's freedom. Not every dog happily agrees to be leashed. If every time you put a collar/harness on your dog or fasten a leash you say "Yes!" and reinforce the word with a treat, then the dog changes its attitude to the restriction of freedom. It will even start to come up and ask to be leashed for a treat. Well, it is and also because being leashed to a person on the street, i.e. having a physical connection with a human via the leash, the dog feels safe.
+
+<p align="center">
+  <img src="pictures/dad_teaches_kids.jpg" alt="Dog training joke"/>
+</p>
+
 Why "yes"?
 
 [Pyotr Anokhin proposed a model](https://en.wikipedia.org/wiki/Theory_of_functional_systems), which describes the interaction of all systems in a living organism. As well as the interaction of different parts of each individual system. The model turned out to be universal. It applies to people and animals, plants and even psychology.
@@ -53,12 +59,11 @@ Note how the advice is given on not using "No". This is not just "No". This is a
 
 ## Are there exceptions?
 
-Of course, "yes"! The magic effect of the word "yes," if you notice, applies to long-term relationships. If you are sure that you see your interlocutor is the first and last time, you can use "No", "Maybe" or whatever you want. "Yes" is used to shape desirable behavior. One-time or short-term contacts will not change/shape the relationship with you. So there is no point in wasting time, effort and thought on the correct use of positive feedback.
+Of course, "yes"! The magic effect of the word "yes," if you notice, applies to **long-term** relationships. If you are sure that you see your interlocutor is the first and last time, you can use "No", "Maybe" or whatever you want. "Yes" is used to shape desirable behavior. One-time or short-term contacts will not change/shape the relationship with you. So there is no point in wasting time, effort and thought on the correct use of positive feedback.
 It is important to understand that if there is a chance of long-term relationships, personal or professional, you have no choice. To get desirable behavior from friends, relatives and colleagues, you will have to invest your time and effort in positive feedback.
 
-Good news: using positive feedback gives you a reputation as a good friend, a friendly colleague.
-
-The bad news (how to go without them?): the positive feedback does not work immediately, but requires diligence and perseverance.
+* Good news: using positive feedback gives you a reputation as a good friend, a friendly colleague.
+* Bad news (how to go without them?): the positive feedback does not work immediately, but requires diligence and perseverance.
 
 ## Practice
 If you have never trained your pet, it is worth starting with this simple exercise. 
@@ -70,8 +75,31 @@ If you have never trained your pet, it is worth starting with this simple exerci
 6. Repeat the points 3-5 for 10 times or more.
 7. Repeat whole the exercise in another room, on the balcony, in the garden, in the forest/park, while walking the dog.
 
+The last point is especially important. Dog owners are surprised that their pet performs commands well at the trainer's, but barely understands what is required of it at home. Those who train dogs themselves are upset that many commands that the dog performs well at home remain unacknowledged when the owner wants to show off the dog to friends. There is nothing strange about this. Dogs are better integrated into nature than people - for good and for bad. They see and hear not only the owner, but everything that surrounds them. The owner and his commands are only a small part of the overall picture. Therefore, the same command and the same gesture in one room are perceived by the dog differently in another room. By training a dog in different environments, you can teach it to "separate the wheat from the chaff": see and hear the owner and reduce its attention to the motley environment.
 
-# Strike while the iron is hot
+What does this knowledge give us? 2 conclusions:
+1. If our task is to teach a dog a trick quickly, then it is better to do it in one environment. For example, in the same room or in the same corner of the garden.
+2. Having taught the dog one trick, nolens volens you will have to teach it the same thing in several more places. Although this will go faster.
+
+## Recap
+
+The word "Yes" is the first and most important word to teach a dog. During the training, "Yes" should be reinforced with a treat. This way, the dog will associate "Yes" with something good and positive. Use "Yes", the positive feedback, to form the desired skills and behavior in the dog.
+
+"Yes", the positive feedback is a tool for forming the desired behavior. It is important to use it like any other tool - at the right time and right way. Do not say "yes" and do not give the dog a treat without a reason. Do not use the tool when the dog does something wrong. Do not waste "yes" long after the desired behavior. Use "yes" immediately, instantly, as soon as the dog has performed the desired action or at least part of it. Repeat the commands and "yes" many times in different situations.
+
+Bonus: the same effect of "Yes", the positive feedback, works on people. Just choose another word (for example, "Cool", "Excellent", "Well done", etc.) and use only it to form the desired behavior. The second bonus is that with people you can save on treats: people understand words.
+
+
+# Make hay while the sun is still shining
+
+Each person spends decades of own life to realize the necessity, value and benefits of meditation. In fact, many die without ever meditating. Sad, but true. [Meditation](https://en.wikipedia.org/wiki/Meditation), simply put, is concentration training. Meditation allows a person to concentrate (focus attention) on something for a long time. In our normal state, our brain constantly "jumps" from thought to thought. As philosophers say, "thought chases and devours thought." Meditation exercise teaches a person to concentrate on the desired thought without ignoring the environment. Practical meditation is an exercise in which a person consciously discards all the occupations and worries of the future, all the burdens, grievances and pain of the past, and lives in the present moment. It seems simple, try it once. In the present moment, unusual feelings are revealed to us, with which we live our whole lives and do not notice them.
+
+| After all, life is something that passes by while we are busy with something else. (unknown philosopher) |
+|--------------------------------------------------------|
+
+Dogs, in terms of focus, are better than people. Our, human, ability to think abstractly is a gift and a burden at the same time. The ability to think creates and roots in our consciousness the representation of the world, often having nothing common with the reality. To delve into this topic, you could read Daniel Kahneman, Martin Seligman, Dan Rafaeli, Robert Dilts, and others. Dogs do not have the ability to think abstractly. Therefore, they do not need to learn to meditate. From birth, they are able to perceive the entire environment at once, as an integrated environment. At the same time, according to their behavior, dogs quite clearly distinguish the most important irritants from the general hubbub. If a dog does not find an "important" irritant in its environment, it calms down and rests. Dogs spend most of their time in a half-sleep. Dogs naturally live in the present moment. And the present moment for them is what is happening right now.
+
+Various studies show that dogs "remember" a maximum of 7 to 10 seconds ago. Their entire life is our last 7-10 seconds, running forward along with time. Like a train on rails, or like a sliding door in your wardrobe.
 
 ```commandline
                                         +---------------+
@@ -122,3 +150,11 @@ All bricks are the same, so should the commands. Consistency and self-discipline
 
 Pay attention to how you give commands. The more variable the command in tone, volume, speed of pronunciation, coordination with the gesture, the more time and iterations it will take you to train the dog.
 If the dog "does not understand" what is required to do, perhaps the "bricks" are too big. Think about what smaller actions you want to teach the dog. And teach each action at time in sequential order. As it successfully executes the initial commands, increase the complexity. For example, the command "Serve" consists of "Sit!" and then "Serve".
+
+# Addendum
+
+## Food and Treats
+
+## General Care and Hygiene
+
+## Veterinary Services
