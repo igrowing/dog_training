@@ -35,7 +35,7 @@ The connection is called "negative" because the signal to action is opposite in 
 
 The "Functional System" model describes the maintenance of life, homeostasis, the status quo. It is built into our biology and is unchangeable. It keeps us alive. But, alas, it also does not allow us to develop, grow professionally, emotionally, socially.
 
-[Opening the electronic model](EllKiEUK6k4WTmEkADEZkAYkNwgAWWsADwAdAGcGAGAGwAXaxq6ReWQNdkNrY2IABEAYRO2ADM-sc6FcWEA) of the functional system, you can play with it and see how it responds to the intervention.
+[Opening the electronic model](https://www.falstad.com/circuit/circuitjs.html?ctz=CQAgjCAMB0l3BWcZYA4BsB2ATNzZsEBOVA9EBSCiqhAUwFowwAoAeRAGZsqxNzO6VOH7goLAO5ceIbABYq3XqMiTwRbOs1gNsheIBOWvYpnyqteKoCGxvgJn2QRcEiZIwVuOGioikBB1OOXQdVE4iCE5YeXDIIgQIvjlCck8WACU7dF5sYTAcqDF9bGhMagtoBBYAc2NOSDl6wSLVIx1NBqaOkyLPeBYAeyL0JqoFEllKiEUK6k4WTmEkADEZkAYkNwgAWWsADwAdAGcANUGAGwAXaxq6ReWQNdkNrY2IABEAYRO2ADM-sc6FcWEA) of the functional system, you can play with it and see how it responds to the intervention.
 
 ![Functional system](pictures/functional%20system.jpg "Functional system")
 
@@ -52,15 +52,40 @@ That is why, for example, we avoid those sciences and areas of life that are "no
 
 The easiest way to transform an uninteresting activity into an interesting one is to get support from the outside. For example, a child does not like history. Grandfather tells him part of a historical event, puts out the feeler, but does not give the ending. Then the child gets a book or a film where he learns the ending of that story. Naturally, the child brags to his grandfather about his discovery. If the grandfather praises the kid, supports, appreciates, then maybe another historian will appear among us.
 
+| Once I was having lunch with my colleagues in a restaurant. A regular business lunch. One of my friends ordered a salad. And he asked not to mix the salad with the sauces, but to bring the sauces separately. To which the waiter replied: "This salad is always served already mixed. If you want additional sauce, you have to pay extra." A rumble rose over the table, because mixing salad with sauce at your own discretion was generally accepted at that time and in that city. And only my friend answered in a completely even voice: "I like to mix the sauce with the salad myself. If you don't like something, please tell your boss. And also, please bring grated Parmesan with the salad, it will taste better." The waiter wrote everything down, left, and brought what was asked for. |
+|------------------|
+
 If someone speaks to you in a rude manner, and you respond in the same way, then you give him positive support (Positive Feedback). You add fuel to his fire. And he will continue to speak to you in the same way. If you ignore the rudeness and end the conversation rationally and to the point, then the boor will not be interested in being rude to you. On the contrary, the next time he speaks to you neutrally or politely, praise him for his "patience", "grit", "understanding", etc. And you will see that the boor will gradually become the most pleasant interlocutor with you. This is the effect of positive feedback. This is a kind of "Yes".
+
+So my friend from the story above, did not get into a dispute with the waiter. Just explained his reasons (I like...), dispelled doubts of the waiter with a clear positive instruction (if you do not like it, then ...) and reinforced by additional positive command (bring parmesan). This case served me as a lesson of enlightenment both for training dogs and for communicating with people.
 
 The word "Yes" itself does not mean anything to a dog, like any other word. But when reinforced with a treat, "Yes" acquires the meaning of Positive Feedback. The dog wants to hear "Yes" more often and get a treat.
 
 ## What about "No?"
 "No" is, in principle, a useless word. Our brain, its left half, understands "No" logically. It is a prohibition, a denial, a disagreement. But the right, emotional half of the brain, gets frustrated from the word "No". On the one hand, negative emotions arise, on the other hand, it is not clear what and how to do to get positive emotions. It is like going nowhere. Without a clear goal, the brain cannot choose the direction of movement and action. And that means it gets "out of the frying pan and into the fire." Poking at endless "No", we fall into depression, lose interest in life.
-Try not to use "No" with those with whom you hope to build a long-term relationship. Do use "Yes" to maintain and strengthen the desired behavior. Do ignore the unwanted behavior.
+Try not to use "No" with those with whom you hope to build a long-term relationship. Do use "Yes" to maintain and strengthen the desired behavior.
 
 Note how the advice is given on not using "No". This is not just "No". This is a positive alternative. Positive goal.
+
+<p align="center">
+<img src="pictures/goal.png" alt="Positive and negative goals illustrated"/></br>
+When we try to run away from, avoid, or prevent something, we deprive the brain of a direction for action and movement. This discourages us.</br>
+By focusing on the goal, we give the brain a clear and understandable instruction to follow.
+</p>
+
+Let's say you have a puppy who likes to chew on the legs of chairs and cabinets. Some people don't care, but many don't like it. How can we not shout "No!" if we've caught the "criminal" red-handed?
+
+Those who have or had small children know that if you forbid your child something, he or she will definitely do it. If humans don't understand "No," then dogs don't understand it either. You just have to comprehend this fact. But chewed furniture is outrageous! What to do?
+
+Or another example - a dog picks up food scraps on the street during a walk - "vacuuming". Some will think - that's great, we'll save on food! In fact, what the dog finds can be spoiled, contaminated, poisoned (yes, there are people who deliberately "clean the city from dogs"), or just human food, which is not very healthy for dogs. In any case, "vacuuming" is undesirable behavior. What to do?
+
+Exactly what my friend with the waiter did: give a sequence of commands. Attract the dog’s attention by calling it or just yelling "Hey!". When the dog will pay attention to you, make it coming to you. When it comes, command it to sit, lay, stand, give a paw, etc. Make the dog busy for a minute. This will distract it from the unwanted action and, at the same time, consolidate the learned skills.
+
+In conclusion of the discussion about the word "no", it is worth mentioning such a common phenomenon: inexperienced owners say "no" when the dog does not perform the command correctly. The person's feelings are understandable, he is upset. Let's remember that "no" is a useless word in the context of training. Who will feel better from a "no" blurted out in desperation? This is not constructive. After all, the dog tried! It paid attention to the owner, wanted to please him, and even did what it could. Yes, it did the wrong thing. Next time, if the owner tries to give a better command, the dog will try to perform it better. Therefore, incorrectly executed commands should not be scolded. They should simply be ignored. Take a breath, and try again.
+
+According to various studies ([example](https://www.researchgate.net/publication/382938445_Causation_Correlation_Analysis_of_Aviation_Accidents_A_Knowledge_Graph-Based_Approach)), more than 85% of air crashes are due to errors of  pilots, flight attendants, and ground services: human induced errors. People make mistakes more often than hardware, devices, nature, and other "unconscious" factors. The leading intellectual role in communicating with a dog can be assigned to a person without hesitation. If a dog does something wrong, it means that it receives "wrong" instructions. Did not you manage to teach the dog a new trick 2-3 attempts? Don't blame the dog. Open a textbook or the Internet and read how to teach a dog to do what you need, how to be less ambiguous. Everything has already been invented before us. And there are even ready-made videos for fans of this genre.
+
+We all studied in schools, some even in colleges. Remember your teachers. Which of them do you consider the best? Who taught you more? Who interested you in their subject? I bet these were teachers who did NOT scold for mistakes and VERY praised for correct answers. Become the very best teacher for your dog.
 
 ## Are there exceptions?
 
@@ -69,6 +94,24 @@ It is important to understand that if there is a chance of long-term relationshi
 
 * Good news: using positive feedback gives you a reputation as a good friend, a friendly colleague.
 * Bad news (how to go without them?): the positive feedback does not work immediately, but requires diligence and perseverance.
+
+## How long?
+
+And really, how long do you need to give the positive feedback to develop and reinforce the desired behavior? In the case of dog training, this question is even more complicated. How much time does it take to stop reinforcing "Yes" with a treat?
+
+Usually, it takes 2-5 approaches for dogs to start performing a command. So, it is a matter of minutes. Teaching complex commands like "Search and bring" takes more time, since the command itself consists of several actions. Each action must be learned separately, and then they will need to be combined into one sequence. Who said it would be easy? Yes, training is a difficult process not only for the dog, but also for the trainer. That is what makes it attractive and enticing.
+
+But we are talking about just one word "Yes". How much time and treats do you need so that there is no need for treats during training? After an hour of intensive training (see the exercise below), the dog will associate "Yes" with a treat. That is, the next day, in theory, one "Yes" will be enough. Where is the "but"? There will be no "but". Instead:
+
+| Even experienced trainers reinforce "Yes" with a treat periodically when working with already well-trained dogs. |
+|---------------------------------------------------------------------------------------------------------------------------------|
+
+In other words, once you have set foot on the path of positive feedback, there is no turning back. You will always have to have some kind of treat with you. Not to feed the dog, but to periodically reward it in addition to "Yes". For example, you go for a walk with your dog - a very real scenario. During the walk, the dog should walk next to you, stop, sit, stand, wait, etc. Each time it behaves correctly, you say "Yes" to it, but do not give it a treat, because the dog is already well trained. But if you suddenly notice that the dog is trying to pick up something from the ground or is starting to show aggression towards another dog, you say "Leavi-it!" or "Stop-it!" depending on the situation. And when the dog drops what it was trying to pick up from the ground or stops growling at the other dog, you loudly encourage it with an exclamation of "Yes!" and be sure to give it a treat. In this case, the treat enhances the usual effect of the word "Yes". As you can see, sometimes treats will be needed throughout the dog's life. And this is pleasant not only for your four-legged friend, but also for you.
+
+Why is this example important?
+
+1. It shows the importance and appropriateness of reinforcing of "Yes!" with a treat in rare and spontaneous situations.
+2. It demonstrates the substitution of the useless word "No" for the useful commands (Leavi-it, Stop-it), which tells the dog **what to do**. The command is to set a positive goal.
 
 ## Practice
 If you have never trained your pet, it is worth starting with this simple exercise. 
@@ -130,7 +173,9 @@ Say "Yes!" emotionally. Emotional feedback is better perceived by the dog.
 Over time, just "Yes!" will be enough to reinforce the skill even without a treat.
 
 Do not use "No!" or other negative feedback. The dog does not understand words, but understands emotions. Dogs are empathetic. The owner's negative emotions cause displeasure in the dog. When there is a lot of displeasure, the dog simply does not want to continue training. The game will stop being fun and become hard labor. Who would willingly go to hard labor?
-Use "Yes!" to reinforce if the dog's behavior is correct, or ignore its behavior if it is undesirable - without emotion.
+* Use "Yes!" to reinforce the dog's correct behavior.
+* Switch dog's attention to a familiar and appropriate action when the behavior is undesirable.
+* If the dog simply performed the command incorrectly, and this often happens when learning a new trick, then leave it without emotion, without comment.
 
 ## 2. 7 seconds.
 
