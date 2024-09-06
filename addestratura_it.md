@@ -6,7 +6,7 @@ Se non insegni al cane a mostrare aggressività, ad attaccare le persone o altre
 
 Per molti proprietari di cani, il loro amico a quattro zampe diventa parte della famiglia. Come dice il proverbio, se non parli con il tuo cane, perché hai un cane? :)
 Ecco perché le persone sono pronte a fare grandi sacrifici di tempo e denaro affinché il loro familiare si senta meglio.
-Rispetto alle visite veterinarie periodiche e impreviste, alle tasse, alle spese quotidiane per un cane, l'addestramento è un investimento di tempo significativamente piccolo in un'attività reciprocamente vantaggiosa.
+Rispetto alle visite veterinarie periodiche e impreviste, alle tasse, alle spese quotidiane per un cane, l'addestramento è un investimento di tempo relativisticamente piccolo in un'attività reciprocamente vantaggiosa.
 1. Un cane addestrato è più attaccato al suo padrone, si fida di più di lui e riduce anche il rischio di trovarsi in situazioni spiacevoli.
 2. Per entrambi, la persona e il cane, l'addestramento è un'attività piacevole, un gioco. Per il cane, è anche un gioco gustoso.
 
@@ -81,7 +81,7 @@ Chi ha o ha avuto bambini piccoli sa che se proibisci qualcosa a tuo figlio/a, l
 
 Oppure un altro esempio: un cane raccoglie gli avanzi di cibo per strada durante una passeggiata, "passando l'aspirapolvere". Alcuni penseranno: è fantastico, risparmieremo sul cibo! In realtà, ciò che trova il cane può essere avariato, contaminato, avvelenato (sì, ci sono persone che deliberatamente "puliscono la città dai cani"), o semplicemente cibo umano, che non è molto salutare per i cani. In ogni caso, "passare l'aspirapolvere" è un comportamento indesiderato. Cosa fare?
 
-Esattamente quello che il mio amico ha fatto con il cameriere: dare una sequenza di comandi. Attirare l'attenzione del cane chiamandolo o semplicemente urlando "Ehi!". Quando il cane farà attenzione a te, lo faccia venendo a te. Quando arriva, ordinatelo di sedersi, posare, stare in piedi, dare una zampa, ecc. Rendere il cane occupato per un minuto. Ciò lo distrarrà dal l'azione indesiderata e, allo stesso tempo, consoliderà le competenze acquisite.
+Esattamente quello che il mio amico ha fatto con il cameriere: dare una sequenza di comandi. Attirare l'attenzione del cane chiamandolo o semplicemente urlando "Ehi!". Quando il cane farà attenzione a te, lo faccia venendo a te. Quando arriva, ordinatelo di sedersi, posare, stare in piedi, dare una zampa, ecc. Rendere il cane occupato per un minuto, gioca al tiro alla fune con lui/lei, dagli un giocattolo per i denti o semplicemente un legno. Ciò lo distrarrà dal l'azione indesiderata e, allo stesso tempo, consoliderà le competenze acquisite.
 
 In conclusione della discussione sulla parola "no", vale la pena menzionare un fenomeno così comune: i proprietari inesperti dicono "no" quando il cane non esegue correttamente il comando. I sentimenti della persona sono comprensibili, è turbato. Ricordiamo che "no" è una parola inutile nel contesto dell'addestramento. Chi si sentirà meglio con un "no" pronunciato con disperazione? Questo non è costruttivo. Dopotutto, il cane ci ha provato! Ha prestato attenzione al proprietario, ha voluto compiacerlo e ha persino fatto il possibile. Sì, ha fatto la cosa sbagliata. La prossima volta, se il proprietario prova a dare un comando migliore, il cane proverà a eseguirlo meglio. Pertanto, i comandi eseguiti in modo errato non dovrebbero essere sgridati. Semplicemente ignorali. Fai un respiro profondo e riprova.
 
@@ -194,7 +194,7 @@ Dai solo 1 comando per 7-10 secondi. Un cane non è un robot o un interruttore, 
 
 I castelli sono costruiti con mattoni, fissati con malta cementizia. Ogni comando appreso da un cane è un castello a sé stante. Vale a dire, deve essere costruito gradualmente, dando *gli stessi* comandi e rinforzando con *le stesse* ricompense.
 
-I "mattoni" sono comandi. Per ogni azione, scegli un comando. È consigliabile scegliere anche un gesto per questo comando. Un gesto è comodo e importante in situazioni in cui il cane non è nelle vicinanze. Quindi potrebbe anche non sentire, ma vedere il gesto ed eseguirlo correttamente.
+I "mattoni" sono comandi. Per ogni azione, scegli un comando. È consigliabile scegliere anche un gesto per questo comando. Un gesto è comodo e importante in situazioni in cui il cane non è nelle vicinanze. Quando potrebbe non sentire la comanda, può vedere il gesto ed eseguirlo correttamente.
 Esempio di un comando: "Seduto". Gesto: palmo orizzontale con il dorso rivolto verso l'alto. Ogni volta dovresti dire solo "Seduto" e posizionare il palmo orizzontalmente.
 Se usi sinonimi (Sedersi, Siediti, Resta seduto, Tieni palle per terra, Mantieni-la-calma-e-benedici-il-re) o usi gesti diversi con la parola "Seduto!", allora il cane percepirà questo come comandi diversi. Ci vorrà incomparabilmente più tempo al cane per combinare diversi comandi in un'unica azione. Tutti i mattoni sono uguali, così come i comandi. La coerenza e l'autodisciplina del proprietario sono la chiave per un addestramento di successo. A proposito, il comando non deve necessariamente avere senso nel linguaggio umano. Puoi insegnare a un cane a sedersi al comando "Katmandu!", per esempio. La cosa principale è decidere da solo, il padrone, quale parola significa cosa, e usare le parole in modo appropriato e coerente.
 

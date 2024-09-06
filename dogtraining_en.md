@@ -6,7 +6,7 @@ If you do not teach the dog to show aggression, attack people or other living cr
 
 For many dog owners, their four-legged friend becomes part of the family. As the saying goes, if you don’t talk to your dog, then why do you have a dog? :)
 That’s why people are ready to make great sacrifices of time and money so that their family member feels better.
-Compared to periodic and unforeseen veterinary visits, taxes, daily expenses for a dog, training is a significantly small investment of time in a mutually beneficial activity.
+Compared to periodic and unforeseen veterinary visits, taxes, daily expenses for a dog, training is a relatively small investment of time in a mutually beneficial activity.
 1. A trained dog is more attached to its owner, trusts him more, and also reduces the risk of getting into unpleasant situations.
 2. For both, the person and the dog, the training is a pleasant activity, a game. For the dog, it is also a tasty game.
 
@@ -79,7 +79,7 @@ Those who have or had small children know that if you forbid your child somethin
 
 Or another example - a dog picks up food scraps on the street during a walk - "vacuuming". Some will think - that's great, we'll save on food! In fact, what the dog finds can be spoiled, contaminated, poisoned (yes, there are people who deliberately "clean the city from dogs"), or just human food, which is not very healthy for dogs. In any case, "vacuuming" is undesirable behavior. What to do?
 
-Exactly what my friend with the waiter did: give a sequence of commands. Attract the dog’s attention by calling it or just yelling "Hey!". When the dog will pay attention to you, make it coming to you. When it comes, command it to sit, lay, stand, give a paw, etc. Make the dog busy for a minute. This will distract it from the unwanted action and, at the same time, consolidate the learned skills.
+Exactly what my friend with the waiter did: give a sequence of commands. Attract the dog’s attention by calling it or just yelling "Hey!". When the dog will pay attention to you, make it coming to you. When it comes, command it to sit, lay, stand, give a paw, etc. Make the dog busy for a minute, play tug of war with it, give it a toy for teething or just a stick. This will distract it from the unwanted action and, at the same time, consolidate the learned skills.
 
 In conclusion of the discussion about the word "no", it is worth mentioning such a common phenomenon: inexperienced owners say "no" when the dog does not perform the command correctly. The person's feelings are understandable, he is upset. Let's remember that "no" is a useless word in the context of training. Who will feel better from a "no" blurted out in desperation? This is not constructive. After all, the dog tried! It paid attention to the owner, wanted to please him, and even did what it could. Yes, it did the wrong thing. Next time, if the owner tries to give a better command, the dog will try to perform it better. Therefore, incorrectly executed commands should not be scolded. They should simply be ignored. Take a breath, and try again.
 
@@ -187,7 +187,7 @@ Give only 1 command for 7-10 seconds. A dog is not a robot or a switch, but a li
 
 Castles are built from bricks, fastened with cement mortar. Each command learned by a dog is a separate castle. That is, it must be built gradually, giving *the same* commands, and reinforcing with *the same* rewards.
 
-"Bricks" are commands. For each action, choose one command. It is advisable to also choose a gesture for this command. A gesture is convenient and important in situations when the dog is not nearby. Then it may not even hear, but see the gesture and perform it correctly.
+"Bricks" are commands. For each action, choose one command. It is advisable to also choose a gesture for this command. A gesture is convenient and important in situations when the dog is not nearby. When the dog may not hear the command, it will see the gesture and perform it correctly.
 Example of a command: "Sit". Gesture: palm horizontally with the back side up. Each time you should say only "Sit" and place your palm horizontally.
 If you use synonyms (Be sat, Stay sitting, Get sat, Sit down, Keep-calm-and-bless-the-king) or use different gestures with the word "Sit!", then the dog perceives this as different commands. It will take incomparably more time for the dog to combine different commands into one action.
 All bricks are the same, so should the commands. Consistency and self-discipline of the owner are the key to successful training. By the way, the command does not necessarily have to make sense in human language. You can teach a dog to sit on the command "Katmandu!", for example. The main thing is to decide for yourself, the owner, which word means what, and to use words appropriately and consistently.
