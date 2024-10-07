@@ -119,7 +119,7 @@ Perché questo esempio è importante?
 Se non hai mai addestrato il tuo animale domestico prima, dovresti iniziare con questo semplice esercizio.
 1. Prepara una manciata di piccoli dolcetti/premi in modo che il cane non possa semplicemente prenderli. Ad esempio, tienili sul palmo della mano o su un tavolo sopra il livello degli occhi/naso del cane.
 2. Aspetta finché il cane non inizia a girarti intorno o a sedersi accanto a te. Questo di solito accade non appena inizi a fare qualcosa. I cani sono curiosi.
-3. Non appena vedi che il cane è distratto da te, ad esempio guardando di lato, pronuncia il suo nome una volta.
+3. Stai fermo e aspetta ancora un po'. Non appena vedi che il cane è distratto da te, ad esempio guardando di lato, pronuncia il suo nome una volta.
 4. Aspetta finché il cane non ti guarda. Massimo 10 secondi.
 5. Non appena il cane ti guarda, dì "Sì!" ad alta voce e con gioia, e offrirlo un dolcetto.
 6. Ripeti i punti 3-5 volte 10 o più.

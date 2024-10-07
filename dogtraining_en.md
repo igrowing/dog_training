@@ -54,8 +54,9 @@ That is why, for example, we avoid those sciences and areas of life that are "no
 
 The easiest way to transform an uninteresting activity into an interesting one is to get support from the outside. For example, a child does not like history. Grandfather tells him part of a historical event, puts out the feeler, but does not give the ending. Then the child gets a book or a film where he learns the ending of that story. Naturally, the child brags to his grandfather about his discovery. If the grandfather praises the kid, supports, appreciates, then maybe another historian will appear among us.
 
+
 | Once I was having lunch with my colleagues in a restaurant. A regular business lunch. One of my friends ordered a salad. And he asked not to mix the salad with the sauces, but to bring the sauces separately. To which the waiter replied: "This salad is always served already mixed. If you want additional sauce, you have to pay extra." A rumble rose over the table, because mixing salad with sauce at your own discretion was generally accepted at that time and in that city. And only my friend answered in a completely even voice: "I like to mix the sauce with the salad myself. If you don't like something, please tell your boss. And also, please bring grated Parmesan with the salad, it will taste better." The waiter wrote everything down, left, and brought what was asked for. |
-|------------------|
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 If someone speaks to you in a rude manner, and you respond in the same way, then you give him positive support (Positive Feedback). You add fuel to his fire. And he will continue to speak to you in the same way. If you ignore the rudeness and end the conversation rationally and to the point, then the boor will not be interested in being rude to you. On the contrary, the next time he speaks to you neutrally or politely, praise him for his "patience", "grit", "understanding", etc. And you will see that the boor will gradually become the most pleasant interlocutor with you. This is the effect of positive feedback. This is a kind of "Yes".
 
@@ -106,8 +107,9 @@ Usually, it takes 2-5 approaches for dogs to start performing a command. So, it 
 
 But we are talking about just one word "Yes". How much time and treats do you need so that there is no need for treats during training? After an hour of intensive training (see the exercise below), the dog will associate "Yes" with a treat. That is, the next day, in theory, one "Yes" will be enough. Where is the "but"? There will be no "but". Instead:
 
+
 | Even experienced trainers reinforce "Yes" with a treat periodically when working with already well-trained dogs. |
-|---------------------------------------------------------------------------------------------------------------------------------|
+| ------------------------------------------------------------------------------------------------------------------ |
 
 In other words, once you have set foot on the path of positive feedback, there is no turning back. You will always have to have some kind of treat with you. Not to feed the dog, but to periodically reward it in addition to "Yes". For example, you go for a walk with your dog - a very real scenario. During the walk, the dog should walk next to you, stop, sit, stand, wait, etc. Each time it behaves correctly, you say "Yes" to it, but do not give it a treat, because the dog is already well trained. But if you suddenly notice that the dog is trying to pick up something from the ground or is starting to show aggression towards another dog, you say "Leavi-it!" or "Stop-it!" depending on the situation. And when the dog drops what it was trying to pick up from the ground or stops growling at the other dog, you loudly encourage it with an exclamation of "Yes!" and be sure to give it a treat. In this case, the treat enhances the usual effect of the word "Yes". As you can see, sometimes treats will be needed throughout the dog's life. And this is pleasant not only for your four-legged friend, but also for you.
 
@@ -122,7 +124,7 @@ If you have never trained your pet, it is worth starting with this simple exerci
 
 1. Prepare a handful of small delicacies so that the dog cannot simply take it. For example, hold in the hand or on a table above the dog’s eyes/nose.
 2. Wait until the dog starts to spin around you or sit next to you. It usually happens almost as soon as you start doing something. Dogs are curious.
-3. As soon as you see that the dog is distracted from you, look away, for example, immediately call its name 1 time.
+3. Hold still and wait a little longer. As soon as you see that the dog is distracted from you, look away, for example, immediately call its name 1 time.
 4. Wait until the dog looks at you. Maximum 10 seconds.
 5. Immediately as the dog looks at you, say "Yes!" loud and cheery and offer it a piece of a treat.
 6. Repeat the points 3-5 for 10 times or more.
@@ -147,8 +149,9 @@ Bonus: the same effect of "Yes", the positive feedback, works on people. Just ch
 
 Each person spends decades of own life to realize the necessity, value and benefits of meditation. In fact, many die without ever meditating. Sad, but true. [Meditation](https://en.wikipedia.org/wiki/Meditation), simply put, is concentration training. Meditation allows a person to concentrate (focus attention) on something for a long time. In our normal state, our brain constantly "jumps" from thought to thought. As philosophers say, "thought chases and devours thought." Meditation exercise teaches a person to concentrate on the desired thought without ignoring the environment. Practical meditation is an exercise in which a person consciously discards all the occupations and worries of the future, all the burdens, grievances and pain of the past, and lives in the present moment. It seems simple, try it once. In the present moment, unusual feelings are revealed to us, with which we live our whole lives and do not notice them.
 
+
 | After all, life is something that passes by while we are busy with something else. (unknown philosopher) |
-|--------------------------------------------------------|
+| ---------------------------------------------------------------------------------------------------------- |
 
 Dogs, in terms of focus, are better than people. Our, human, ability to think abstractly is a gift and a burden at the same time. The ability to think creates and roots in our consciousness the representation of the world, often having nothing common with the reality. To delve into this topic, you could read Daniel Kahneman, Martin Seligman, Dan Rafaeli, Robert Dilts, and others. Dogs do not have the ability to think abstractly. Therefore, they do not need to learn to meditate. From birth, they are able to perceive the entire environment at once, as an integrated environment. At the same time, according to their behavior, dogs quite clearly distinguish the most important irritants from the general hubbub. If a dog does not find an "important" irritant in its environment, it calms down and rests. Dogs spend most of their time in a half-sleep. Dogs naturally live in the present moment. And the present moment for them is what is happening right now.
 
