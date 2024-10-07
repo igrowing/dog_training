@@ -41,7 +41,7 @@ Il modello del "Sistema Funzionale" descrive il mantenimento della vita, l'omeos
 ![Sistema funzionale](pictures/functional%20system.jpg "Sistema funzionale")
 
 
-La forza trainante dietro tale sviluppo è il nostro cervello irrequieto, o, se preferisci, l'anima. Ognuno ha qualcosa che gli piace fare. Uno o qualche hobby, che, una volta che ci si impegna, non ci si accorge di come vola il tempo. E distraendosi, si desidera tornarci di nuovo. Mihaly Csikszentmihalyi chiama questo stato ("Flusso")[https://it.wikipedia.org/wiki/Flusso_(psicologia)]
+La forza trainante dietro tale sviluppo è il nostro cervello irrequieto, o, se preferisci, l'anima. Ognuno ha qualcosa che gli piace fare. Uno o qualche hobby, che, una volta che ci si impegna, non ci si accorge di come vola il tempo. E distraendosi, si desidera tornarci di nuovo. Mihaly Csikszentmihalyi chiama questo stato il ["Flusso"](https://it.wikipedia.org/wiki/Flusso_(psicologia)).
 
 Si scopre che la biologia degli esseri umani e dei cani è piuttosto simile. A loro piace anche divertirsi, sentirsi bene, sentire di piacere e felicità. A differenza da un sistema funzionale, il flusso è mantenuto da un riscontro positivo. Questo è quando un'azione dà un po' di piacere. E poi continuiamo a fare la stessa cosa, migliorando e perfezionando l'azione per ottenere ancora più piacere.
 

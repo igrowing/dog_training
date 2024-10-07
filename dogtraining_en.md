@@ -7,10 +7,12 @@ If you do not teach the dog to show aggression, attack people or other living cr
 For many dog owners, their four-legged friend becomes part of the family. As the saying goes, if you don’t talk to your dog, then why do you have a dog? :)
 That’s why people are ready to make great sacrifices of time and money so that their family member feels better.
 Compared to periodic and unforeseen veterinary visits, taxes, daily expenses for a dog, training is a relatively small investment of time in a mutually beneficial activity.
+
 1. A trained dog is more attached to its owner, trusts him more, and also reduces the risk of getting into unpleasant situations.
 2. For both, the person and the dog, the training is a pleasant activity, a game. For the dog, it is also a tasty game.
 
 # The most necessary and important word
+
 Let's place bets! What is the most important word not only in communication with animals, but also in raising children, communicating with relatives, friends, colleagues? What word allows you to build long-term trusting relationships? What word is perceived as an element of friendship, as a promise, as support?
 
 ## Yes!
@@ -39,7 +41,7 @@ The "Functional System" model describes the maintenance of life, homeostasis, th
 
 ![Functional system](pictures/functional%20system.jpg "Functional system")
 
-The driving force behind such development is our restless brain, or, if you like, soul. Each of us has something that we like to do. One or more hobbies, which, once you get busy, you don't notice how time flies. And being distracted, you want to return to it again. Mihaly Csikszentmihalyi calls this state ("Flow")[https://en.wikipedia.org/wiki/Flow_(psychology)]
+The driving force behind such development is our restless brain, or, if you like, soul. Each of us has something that we like to do. One or more hobbies, which, once you get busy, you don't notice how time flies. And being distracted, you want to return to it again. Mihaly Csikszentmihalyi calls this state the ["Flow"](https://en.wikipedia.org/wiki/Flow_(psychology)).
 
 It turns out that the biology of humans and dogs is quite similar. They also like to have a good time, feel good, experience pleasure and happiness. Unlike a functional system, the flow is maintained by positive feedback. This is when some action gives some pleasure. And then we continue to do the same thing, improving and perfecting the action to get even more pleasure.
 
@@ -62,6 +64,7 @@ So my friend from the story above, did not get into a dispute with the waiter. J
 The word "Yes" itself does not mean anything to a dog, like any other word. But when reinforced with a treat, "Yes" acquires the meaning of Positive Feedback. The dog wants to hear "Yes" more often and get a treat.
 
 ## What about "No?"
+
 "No" is, in principle, a useless word. Our brain, its left half, understands "No" logically. It is a prohibition, a denial, a disagreement. But the right, emotional half of the brain, gets frustrated from the word "No". On the one hand, negative emotions arise, on the other hand, it is not clear what and how to do to get positive emotions. It is like going nowhere. Without a clear goal, the brain cannot choose the direction of movement and action. And that means it gets "out of the frying pan and into the fire." Poking at endless "No", we fall into depression, lose interest in life.
 Try not to use "No" with those with whom you hope to build a long-term relationship. Do use "Yes" to maintain and strengthen the desired behavior.
 
@@ -114,7 +117,9 @@ Why is this example important?
 2. It demonstrates the substitution of the useless word "No" for the useful commands (Leavi-it, Stop-it), which tells the dog **what to do**. The command is to set a positive goal.
 
 ## Practice
-If you have never trained your pet, it is worth starting with this simple exercise. 
+
+If you have never trained your pet, it is worth starting with this simple exercise.
+
 1. Prepare a handful of small delicacies so that the dog cannot simply take it. For example, hold in the hand or on a table above the dog’s eyes/nose.
 2. Wait until the dog starts to spin around you or sit next to you. It usually happens almost as soon as you start doing something. Dogs are curious.
 3. As soon as you see that the dog is distracted from you, look away, for example, immediately call its name 1 time.
@@ -126,6 +131,7 @@ If you have never trained your pet, it is worth starting with this simple exerci
 The last point is especially important. Dog owners are surprised that their pet performs commands well at the trainer's, but barely understands what is required of it at home. Those who train dogs themselves are upset that many commands that the dog performs well at home remain unacknowledged when the owner wants to show off the dog to friends. There is nothing strange about this. Dogs are better integrated into nature than people - for good and for bad. They see and hear not only the owner, but everything that surrounds them. The owner and his commands are only a small part of the overall picture. Therefore, the same command and the same gesture in one room are perceived by the dog differently in another room. By training a dog in different environments, you can teach it to "separate the wheat from the chaff": see and hear the owner and reduce its attention to the motley environment.
 
 What does this knowledge give us? 2 conclusions:
+
 1. If our task is to teach a dog a trick quickly, then it is better to do it in one environment. For example, in the same room or in the same corner of the garden.
 2. Having taught the dog one trick, nolens volens you will have to teach it the same thing in several more places. Although this will go faster.
 
@@ -136,7 +142,6 @@ The word "Yes" is the first and most important word to teach a dog. During the t
 "Yes", the positive feedback is a tool for forming the desired behavior. It is important to use it like any other tool - at the right time and right way. Do not say "yes" and do not give the dog a treat without a reason. Do not use the tool when the dog does something wrong. Do not waste "yes" long after the desired behavior. Use "yes" immediately, instantly, as soon as the dog has performed the desired action or at least part of it. Repeat the commands and "yes" many times in different situations.
 
 Bonus: the same effect of "Yes", the positive feedback, works on people. Just choose another word (for example, "Cool", "Excellent", "Well done", etc.) and use only it to form the desired behavior. The second bonus is that with people you can save on treats: people understand words.
-
 
 # Make hay while the sun is still shining
 
@@ -165,6 +170,7 @@ Various studies show that dogs "remember" a maximum of 7 to 10 seconds ago. Thei
 # Briefly
 
 3 rules for successful and effective training:
+
 ## 1. Yes!
 
 When training, use only positive feedback with the dog. When the dog does something correctly or almost correctly, say "Yes!" and give a treat to the dog.
@@ -173,6 +179,7 @@ Say "Yes!" emotionally. Emotional feedback is better perceived by the dog.
 Over time, just "Yes!" will be enough to reinforce the skill even without a treat.
 
 Do not use "No!" or other negative feedback. The dog does not understand words, but understands emotions. Dogs are empathetic. The owner's negative emotions cause displeasure in the dog. When there is a lot of displeasure, the dog simply does not want to continue training. The game will stop being fun and become hard labor. Who would willingly go to hard labor?
+
 * Use "Yes!" to reinforce the dog's correct behavior.
 * Switch dog's attention to a familiar and appropriate action when the behavior is undesirable.
 * If the dog simply performed the command incorrectly, and this often happens when learning a new trick, then leave it without emotion, without comment.
@@ -193,6 +200,7 @@ If you use synonyms (Be sat, Stay sitting, Get sat, Sit down, Keep-calm-and-bles
 All bricks are the same, so should the commands. Consistency and self-discipline of the owner are the key to successful training. By the way, the command does not necessarily have to make sense in human language. You can teach a dog to sit on the command "Katmandu!", for example. The main thing is to decide for yourself, the owner, which word means what, and to use words appropriately and consistently.
 
 "Cement mortar" is a way of giving commands and rewards. As part of self-discipline, each iteration of training, each attempt to execute a command should not only be the same, but also in a constant sequence:
+
 1. Give a command and do a gesture.
 2. Wait for execution for 10 seconds.
 3. If the command is executed correctly, then immediately after execution say "Yes!" and offer the dog a treat. If the command is executed incorrectly or not executed, wait 10 seconds and repeat.
